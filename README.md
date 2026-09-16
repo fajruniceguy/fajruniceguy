@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm [Name]
 
-<!--
-**fajruniceguy/fajruniceguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year IT student in Malang. I build full-stack apps and
+AI automation pipelines.
 
-Here are some ideas to get you started:
+**Recent work**
+- **wan22-pipeline** — Cloud-hosted video generation on self-hosted
+  Wan 2.2. Batch rendering, config-driven prompts, Docker.
+- **pulse-dashboard** — Landed-cost tracking for Indonesian
+  e-commerce sellers importing from China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack** — Python, Laravel, PHP, React, n8n, Docker, Claude API
+
+I work heavily with coding agents (Claude Code, Codex, GLM, Kimi)
+and have opinions about where they break.
+
+**Currently open to part-time / contract work**, remote or Malang.
+Reach me at fajrurahman6@gmail.com or on [LinkedIn](https://www.linkedin.com/in/fajrurrahman/).
