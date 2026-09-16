@@ -1,4 +1,4 @@
-### Hi, I'm [Name]
+### Hi, I'm Fajru
 
 Final-year IT student in Malang. I build full-stack apps and
 AI automation pipelines.
