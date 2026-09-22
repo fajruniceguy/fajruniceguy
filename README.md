@@ -14,5 +14,5 @@ AI automation pipelines.
 I work heavily with coding agents (Claude Code, Codex, GLM, Kimi)
 and have opinions about where they break.
 
-**Currently open to part-time / contract work**, remote or Malang.
+**Currently open to full-time / part-time / contract work**, remote or anywhere Central/East Java.
 Reach me at fajrurahman6@gmail.com or on [LinkedIn](https://www.linkedin.com/in/fajrurrahman/).
